@@ -30,11 +30,11 @@ input[type="text"] {
     margin: 10px 0; 
     border: none; 
     border-radius: 5px; 
-    font-size: 18px; /* Ukuran diperbesar */
+    font-size: 18px; 
 }
 
 button { 
-    background-color: #007bff; 
+    background-color: #ff69b4; /* Warna pink */
     color: white; 
     border: none; 
     padding: 10px; 
@@ -42,7 +42,7 @@ button {
     width: 100%; 
     cursor: pointer; 
     border-radius: 5px; 
-    font-size: 16px; /* Ukuran "Gas Cuyn!" diperkecil */
+    font-size: 16px; 
     font-weight: bold;
 }
 
@@ -64,7 +64,7 @@ button:disabled {
 }
 
 .option { 
-    background-color: #007bff; 
+    background-color: #ff69b4; /* Warna pink */
     padding: 10px; 
     margin: 5px 0; 
     border-radius: 5px; 
@@ -73,7 +73,7 @@ button:disabled {
 }
 
 .option:hover { 
-    background-color: #0056b3; 
+    background-color: #ff1493; /* Warna pink lebih gelap saat hover */
 }
 
 .option.correct { 
